@@ -1,3 +1,1 @@
-# Awesome Privacy Computing
-
-PLACEHOLDER
+@/workspace/primihub-README-new.md

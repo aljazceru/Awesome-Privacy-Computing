@@ -1,0 +1,1 @@
+<file>/workspace/content_for_mcp.txt</file>
